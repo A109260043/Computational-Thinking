@@ -1,0 +1,67 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled1.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyOv3DlADwicKHIm8HTimrtw",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/A109260043/Computational-Thinking/blob/master/week10%20%E9%BB%83%E7%8F%AE%E7%AD%91\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "P7uUxUirSLK4",
+        "outputId": "e8488068-6b50-4936-caef-2923df1106e2"
+      },
+      "source": [
+        "movie_title = \"money ball\"\n",
+        "release_year = \"2011\"\n",
+        "movie_time_mins = 133\n",
+        "movie_rating = 7.6\n",
+        "\n",
+        "director = \"Bennett Miller\"\n",
+        "stars_1 = \"Brad Pitt\"\n",
+        "stars_2 = \"Robin Wright\"\n",
+        "stars_3 = \"Jonah Hill\"\n",
+        "\n",
+        "print(\"電影英文名稱\",movie_title)\n",
+        "print(\"上映上映年份\",release_year)\n",
+        "print(\"電影時間長度\",movie_time_mins)\n",
+        "print(\"電影的導演\",director)"
+      ],
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "電影英文名稱 money ball\n",
+            "上映上映年份 2011\n",
+            "電影時間長度 133\n",
+            "電影的導演 Bennett Miller\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    }
+  ]
+}
